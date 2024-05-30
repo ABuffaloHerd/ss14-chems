@@ -1,0 +1,4960 @@
+{
+    "chems": [
+        {
+            "name": "Dylovene",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Silicon",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Nitrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Potassium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Ethylredoxrazine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Dylovene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Potassium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Cryptobiolin",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Potassium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Arithrazine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hyronalin",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Radium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Dylovene",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Potassium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Bicaridine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Inaprovaline",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Cryoxadone",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Dexalin",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 2,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Plasma",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Doxarubixadone",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Cryoxadone",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Dexalin",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 2,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Plasma",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "UnstableMutagen",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Radium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Epinephrine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Phenol",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydroxide",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Benzene",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Acetone",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oil",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "WeldingFuel",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Chlorine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Hydroxide",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Dermaline",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Kelotane",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Phosphorus",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Dexalin",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "Plasma",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "DexalinPlus",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Dexalin",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 2,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Plasma",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Iron",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Hyronalin",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Radium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Dylovene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Potassium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Inaprovaline",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Ipecac",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Potassium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Nitrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Ammonia",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "TranexamicAcid",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Inaprovaline",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SulfuricAcid",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sulfur",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 2,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Kelotane",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Silicon",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Leporazine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Copper",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Fersilicite",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Iron",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Plasma",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Phalanximine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hyronalin",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Radium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Dylovene",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Potassium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ethanol",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "UnstableMutagen",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Radium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Ambuzol",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Dylovene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Potassium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ammonia",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "ZombieBlood",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "AmbuzolPlus",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Ambuzol",
+                    "type": "produced",
+                    "amount": 5,
+                    "reactants": [
+                        {
+                            "name": "Dylovene",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Potassium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ammonia",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ZombieBlood",
+                            "type": "base",
+                            "amount": 2,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Omnizine",
+                    "type": "base",
+                    "amount": 5,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Synaptizine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Lithium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Tricordrazine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Inaprovaline",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dylovene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Potassium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "HeartbreakerToxin",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "DexalinPlus",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Dexalin",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 2,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Plasma",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Iron",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "MindbreakerToxin",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Dylovene",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Potassium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Impedrezene",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Mercury",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Lexorin",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "HeartbreakerToxin",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "DexalinPlus",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Dexalin",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Oxygen",
+                                            "type": "base",
+                                            "amount": 2,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Plasma",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Iron",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MindbreakerToxin",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Dylovene",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Silicon",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Nitrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Potassium",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Plasma",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Vestine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Lipozine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "TableSalt",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sodium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ethanol",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Radium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Mannitol",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "MindbreakerToxin",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Silicon",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Dylovene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Potassium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "SpaceDrugs",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Mercury",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lithium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Ultravasculine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Histamine",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "Plasma",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Oculine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "TableSalt",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sodium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Blood",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Hydroxide",
+                    "type": "produced",
+                    "amount": 2,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Siderlac",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Aloe",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Stellibinin",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Cognizine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "CarpoToxin",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Siderlac",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Aloe",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Stellibinin",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Acetone",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oil",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "WeldingFuel",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Sigynate",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "SodiumCarbonate",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Ammonia",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "TableSalt",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Chlorine",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Sodium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SodiumHydroxide",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydroxide",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sodium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kelotane",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Saline",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 4,
+                    "reactants": []
+                },
+                {
+                    "name": "TableSalt",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sodium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Lacerinol",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Bicaridine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Inaprovaline",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Sugar",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Benzene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Puncturase",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Bicaridine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Inaprovaline",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Sugar",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hydroxide",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Bruizine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Bicaridine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Inaprovaline",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Sugar",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lithium",
+                    "type": "base",
+                    "amount": 0.9,
+                    "reactants": []
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Diphenhydramine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Diethylamine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Ammonia",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ethanol",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Oil",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "WeldingFuel",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "TableSalt",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sodium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ethanol",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Pyrazine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Leporazine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Copper",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Fersilicite",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Iron",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Plasma",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Dermaline",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Kelotane",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Insuzine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Leporazine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Copper",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Fersilicite",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Iron",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Plasma",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kelotane",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Silicon",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Opporozidone",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Cognizine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "CarpoToxin",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Siderlac",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Aloe",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Stellibinin",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Acetone",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oil",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "WeldingFuel",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Carbon",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Cellulose",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Plasma",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "Doxarubixadone",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cryoxadone",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Dexalin",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Oxygen",
+                                            "type": "base",
+                                            "amount": 2,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Plasma",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Water",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "UnstableMutagen",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Radium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Phosphorus",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Chlorine",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Necrosol",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Blood",
+                    "type": "base",
+                    "amount": 3,
+                    "reactants": []
+                },
+                {
+                    "name": "Omnizine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Cryoxadone",
+                    "type": "produced",
+                    "amount": 2,
+                    "reactants": [
+                        {
+                            "name": "Dexalin",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 2,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Plasma",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Aloxadone",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Cryoxadone",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Dexalin",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 2,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Plasma",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Aloe",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "Sigynate",
+                    "type": "produced",
+                    "amount": 2,
+                    "reactants": [
+                        {
+                            "name": "SodiumCarbonate",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Ammonia",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Nitrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "TableSalt",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Chlorine",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Sodium",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SodiumHydroxide",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydroxide",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Oxygen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Sodium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kelotane",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Psicodine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Mannitol",
+                    "type": "produced",
+                    "amount": 2,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Impedrezene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Mercury",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Lipolicide",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Ephedrine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oil",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Diethylamine",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Ammonia",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Nitrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ethanol",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Diethylamine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Ammonia",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ethanol",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mercury",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Happiness",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Laughter",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "Epinephrine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Phenol",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydroxide",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Oxygen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Benzene",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Carbon",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Cellulose",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Acetone",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oil",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "WeldingFuel",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Carbon",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Cellulose",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydroxide",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ethanol",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Plasma",
+                    "type": "base",
+                    "amount": 5,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Ammonia",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 3,
+                    "reactants": []
+                },
+                {
+                    "name": "Nitrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Diethylamine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Ammonia",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ethanol",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Phenol",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hydroxide",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Benzene",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Acetone",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Oil",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "WeldingFuel",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "WeldingFuel",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "FoamingAgent",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Lithium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "PolytrinicAcid",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "SulfuricAcid",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sulfur",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 2,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Plasma",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Potassium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "SulfuricAcid",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sulfur",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "FluorosulfuricAcid",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Fluorine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Potassium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "SulfuricAcid",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sulfur",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 2,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "TableSalt",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Chlorine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sodium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Thermite",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Iron",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Aluminium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "UnstableMutagen",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Radium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Phosphorus",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Chlorine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Oil",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "WeldingFuel",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Fluorosurfactant",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 2,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Fluorine",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "SulfuricAcid",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sulfur",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 2,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Desoxyephedrine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Ephedrine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oil",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Diethylamine",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Ammonia",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Nitrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ethanol",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Iodine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Phosphorus",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Stimulants",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Ephedrine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oil",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Diethylamine",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Ammonia",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Nitrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ethanol",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vestine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Ephedrine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Oil",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "WeldingFuel",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Sugar",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Diethylamine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Ammonia",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ethanol",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "MuteToxin",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Uranium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Vestine",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "SpaceGlue",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "ChloralHydrate",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Chlorine",
+                    "type": "base",
+                    "amount": 3,
+                    "reactants": []
+                },
+                {
+                    "name": "Ethanol",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Pax",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "MindbreakerToxin",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Silicon",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Dylovene",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Silicon",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Potassium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Synaptizine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Lithium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sugar",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Water",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Charcoal",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ash",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "NorepinephricAcid",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Uranium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Epinephrine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Phenol",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydroxide",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Oxygen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Benzene",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Carbon",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Cellulose",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Acetone",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oil",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "WeldingFuel",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Carbon",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Cellulose",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "WeldingFuel",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydroxide",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oxygen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Ethyloxyephedrine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Desoxyephedrine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Ephedrine",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Oil",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "WeldingFuel",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Carbon",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Cellulose",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Sugar",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Diethylamine",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Ammonia",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Hydrogen",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                },
+                                                {
+                                                    "name": "Nitrogen",
+                                                    "type": "base",
+                                                    "amount": 1,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Ethanol",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Iodine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Stellibinin",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Diphenylmethylamine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Ethyloxyephedrine",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Desoxyephedrine",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Ephedrine",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Oil",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "WeldingFuel",
+                                                    "type": "base",
+                                                    "amount": 1,
+                                                    "reactants": []
+                                                },
+                                                {
+                                                    "name": "Hydrogen",
+                                                    "type": "base",
+                                                    "amount": 1,
+                                                    "reactants": []
+                                                },
+                                                {
+                                                    "name": "Carbon",
+                                                    "type": "produced",
+                                                    "amount": 1,
+                                                    "reactants": [
+                                                        {
+                                                            "name": "Cellulose",
+                                                            "type": "base",
+                                                            "amount": 3,
+                                                            "reactants": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Hydrogen",
+                                            "type": "base",
+                                            "amount": 1,
+                                            "reactants": []
+                                        },
+                                        {
+                                            "name": "Sugar",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Cellulose",
+                                                    "type": "base",
+                                                    "amount": 3,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Diethylamine",
+                                            "type": "produced",
+                                            "amount": 1,
+                                            "reactants": [
+                                                {
+                                                    "name": "Ammonia",
+                                                    "type": "produced",
+                                                    "amount": 1,
+                                                    "reactants": [
+                                                        {
+                                                            "name": "Hydrogen",
+                                                            "type": "base",
+                                                            "amount": 3,
+                                                            "reactants": []
+                                                        },
+                                                        {
+                                                            "name": "Nitrogen",
+                                                            "type": "base",
+                                                            "amount": 1,
+                                                            "reactants": []
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Ethanol",
+                                                    "type": "base",
+                                                    "amount": 1,
+                                                    "reactants": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Carbon",
+                                    "type": "produced",
+                                    "amount": 1,
+                                    "reactants": [
+                                        {
+                                            "name": "Cellulose",
+                                            "type": "base",
+                                            "amount": 3,
+                                            "reactants": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Iodine",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Phosphorus",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Stellibinin",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "SodiumCarbonate",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Ammonia",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Hydrogen",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Nitrogen",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "TableSalt",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Chlorine",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                },
+                                {
+                                    "name": "Sodium",
+                                    "type": "base",
+                                    "amount": 1,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon",
+                            "type": "produced",
+                            "amount": 1,
+                            "reactants": [
+                                {
+                                    "name": "Cellulose",
+                                    "type": "base",
+                                    "amount": 3,
+                                    "reactants": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "SodiumCarbonate",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Ammonia",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Nitrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "TableSalt",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Chlorine",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Sodium",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Benzene",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Carbon",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Cellulose",
+                            "type": "base",
+                            "amount": 3,
+                            "reactants": []
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Hydroxide",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Hydrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "SodiumHydroxide",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Hydroxide",
+                    "type": "produced",
+                    "amount": 1,
+                    "reactants": [
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Hydrogen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sodium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Fersilicite",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Iron",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Silicon",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "SodiumPolyacrylate",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Oxygen",
+                    "type": "base",
+                    "amount": 2,
+                    "reactants": []
+                },
+                {
+                    "name": "Sodium",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Nitrogen",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Nocturine",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Impedrezene",
+                    "type": "produced",
+                    "amount": 2,
+                    "reactants": [
+                        {
+                            "name": "Mercury",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Oxygen",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        },
+                        {
+                            "name": "Water",
+                            "type": "base",
+                            "amount": 1,
+                            "reactants": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Vestine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        },
+        {
+            "name": "Tazinide",
+            "type": "produced",
+            "amount": 1,
+            "reactants": [
+                {
+                    "name": "Licoxide",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                },
+                {
+                    "name": "Vestine",
+                    "type": "base",
+                    "amount": 1,
+                    "reactants": []
+                }
+            ],
+            "notes": []
+        }
+    ]
+}
