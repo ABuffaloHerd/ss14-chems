@@ -17,7 +17,7 @@ class ChemicalNode:
         self.notes = []
 
     def __str__(self):
-        return f"{self.name} : {self.reactants} | {self.notes}"
+        return f"{self.name} : {self.reactants} makes {self.product_amount} | {self.notes}"
 
 # Load the YAML file
 with open('medicine.yml', 'r') as file:
@@ -86,9 +86,9 @@ def generate_tree_dict(chemical):
 def generate_tree_dict_iterative(chemical, amount=1):
     if chemical not in nodes or not nodes[chemical].reactants:
         print(f"{chemical} has no reactants")
-        return {"name": chemical, "type": "base", "amount": amount, "notes" : nodes[chemical].notes} if chemical in nodes else None
+        return {"name": chemical, "type": "base", "amount": nodes[chemical].product_amount * amount , "notes" : nodes[chemical].notes} if chemical in nodes else None
 
-    tree_dict = {"name": chemical, "type": "produced", "amount": amount, "reactants": [], "notes": nodes[chemical].notes}
+    tree_dict = {"name": chemical, "type": "produced", "amount": nodes[chemical].product_amount * amount, "reactants": [], "notes": nodes[chemical].notes}
     stack = deque([(chemical, amount, tree_dict)])
 
     while stack:

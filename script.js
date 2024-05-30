@@ -21,9 +21,12 @@ function renderTreeOLD(data, container) {
 
 function renderTree(data, container) {
     data["chems"].forEach(element => {
+        const outer = document.createElement('div');
+        outer.className = 'outer';
+
         const thing = document.createElement('div');
         thing.className = 'tree-item';
-        thing.textContent = element["name"];
+        thing.textContent = element["name"] + " " + element["amount"];
         thing.id = element["name"]
         
         // Create a container for the nested tree
@@ -48,8 +51,11 @@ function renderTree(data, container) {
             }
         });
 
-        container.appendChild(thing);
-        container.appendChild(nestedContainer);
+
+        outer.appendChild(thing);
+        outer.appendChild(nestedContainer);
+
+        container.appendChild(outer);
 
         // Render the nested tree if there are reactants
         if (element.reactants && element.reactants.length > 0) {

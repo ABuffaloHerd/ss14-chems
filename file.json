@@ -3,7 +3,7 @@
         {
             "name": "Dylovene",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Silicon",
@@ -29,7 +29,7 @@
         {
             "name": "Ethylredoxrazine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Oxygen",
@@ -81,7 +81,7 @@
         {
             "name": "Cryptobiolin",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Potassium",
@@ -114,7 +114,7 @@
         {
             "name": "Arithrazine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Hyronalin",
@@ -166,7 +166,7 @@
         {
             "name": "Bicaridine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Inaprovaline",
@@ -226,7 +226,7 @@
         {
             "name": "Cryoxadone",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Dexalin",
@@ -265,7 +265,7 @@
         {
             "name": "Doxarubixadone",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Cryoxadone",
@@ -336,7 +336,7 @@
         {
             "name": "Epinephrine",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Phenol",
@@ -472,7 +472,7 @@
         {
             "name": "Dermaline",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Kelotane",
@@ -518,7 +518,7 @@
         {
             "name": "Dexalin",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Oxygen",
@@ -538,7 +538,7 @@
         {
             "name": "DexalinPlus",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Dexalin",
@@ -584,7 +584,7 @@
         {
             "name": "Hyronalin",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Radium",
@@ -623,7 +623,7 @@
         {
             "name": "Inaprovaline",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Oxygen",
@@ -663,7 +663,7 @@
         {
             "name": "Ipecac",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Potassium",
@@ -702,7 +702,7 @@
         {
             "name": "TranexamicAcid",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Inaprovaline",
@@ -787,7 +787,7 @@
         {
             "name": "Kelotane",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Silicon",
@@ -814,7 +814,7 @@
         {
             "name": "Leporazine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Copper",
@@ -853,7 +853,7 @@
         {
             "name": "Phalanximine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Hyronalin",
@@ -930,7 +930,7 @@
         {
             "name": "Ambuzol",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Dylovene",
@@ -988,7 +988,7 @@
         {
             "name": "AmbuzolPlus",
             "type": "produced",
-            "amount": 1,
+            "amount": 10,
             "reactants": [
                 {
                     "name": "Ambuzol",
@@ -1059,7 +1059,7 @@
         {
             "name": "Synaptizine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Lithium",
@@ -1092,7 +1092,7 @@
         {
             "name": "Tricordrazine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Inaprovaline",
@@ -1164,7 +1164,7 @@
         {
             "name": "HeartbreakerToxin",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "DexalinPlus",
@@ -1287,7 +1287,7 @@
         {
             "name": "Lexorin",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "HeartbreakerToxin",
@@ -1403,7 +1403,7 @@
         {
             "name": "Lipozine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "TableSalt",
@@ -1442,7 +1442,7 @@
         {
             "name": "Mannitol",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Hydrogen",
@@ -1475,7 +1475,7 @@
         {
             "name": "MindbreakerToxin",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Silicon",
@@ -1520,7 +1520,7 @@
         {
             "name": "SpaceDrugs",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Mercury",
@@ -1553,7 +1553,7 @@
         {
             "name": "Ultravasculine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Histamine",
@@ -1573,7 +1573,7 @@
         {
             "name": "Oculine",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "TableSalt",
@@ -1625,7 +1625,7 @@
         {
             "name": "Siderlac",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Aloe",
@@ -1729,7 +1729,7 @@
         {
             "name": "Sigynate",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "SodiumCarbonate",
@@ -1878,7 +1878,7 @@
         {
             "name": "Saline",
             "type": "produced",
-            "amount": 1,
+            "amount": 5,
             "reactants": [
                 {
                     "name": "Water",
@@ -1911,7 +1911,7 @@
         {
             "name": "Lacerinol",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Bicaridine",
@@ -2004,7 +2004,7 @@
         {
             "name": "Puncturase",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Bicaridine",
@@ -2090,7 +2090,7 @@
         {
             "name": "Bruizine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Bicaridine",
@@ -2176,7 +2176,7 @@
         {
             "name": "Diphenhydramine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Diethylamine",
@@ -2286,7 +2286,7 @@
         {
             "name": "Pyrazine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Leporazine",
@@ -2390,7 +2390,7 @@
         {
             "name": "Insuzine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Leporazine",
@@ -2468,7 +2468,7 @@
         {
             "name": "Opporozidone",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Cognizine",
@@ -2635,7 +2635,7 @@
         {
             "name": "Necrosol",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Blood",
@@ -2693,7 +2693,7 @@
         {
             "name": "Aloxadone",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Cryoxadone",
@@ -2893,7 +2893,7 @@
         {
             "name": "Psicodine",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Mannitol",
@@ -2964,7 +2964,7 @@
         {
             "name": "Lipolicide",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Ephedrine",
@@ -3100,7 +3100,7 @@
         {
             "name": "Happiness",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Laughter",
@@ -3261,7 +3261,7 @@
         {
             "name": "Ammonia",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Hydrogen",
@@ -3281,7 +3281,7 @@
         {
             "name": "Diethylamine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Ammonia",
@@ -3314,7 +3314,7 @@
         {
             "name": "Phenol",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Hydroxide",
@@ -3367,7 +3367,7 @@
         {
             "name": "Acetone",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Oil",
@@ -3419,7 +3419,7 @@
         {
             "name": "FoamingAgent",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Lithium",
@@ -3439,7 +3439,7 @@
         {
             "name": "PolytrinicAcid",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "SulfuricAcid",
@@ -3484,7 +3484,7 @@
         {
             "name": "SulfuricAcid",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Hydrogen",
@@ -3510,7 +3510,7 @@
         {
             "name": "FluorosulfuricAcid",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Fluorine",
@@ -3561,7 +3561,7 @@
         {
             "name": "TableSalt",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Chlorine",
@@ -3581,7 +3581,7 @@
         {
             "name": "Thermite",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Iron",
@@ -3607,7 +3607,7 @@
         {
             "name": "UnstableMutagen",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Radium",
@@ -3633,7 +3633,7 @@
         {
             "name": "Oil",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "WeldingFuel",
@@ -3666,7 +3666,7 @@
         {
             "name": "Fluorosurfactant",
             "type": "produced",
-            "amount": 1,
+            "amount": 5,
             "reactants": [
                 {
                     "name": "Carbon",
@@ -3718,7 +3718,7 @@
         {
             "name": "Desoxyephedrine",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Ephedrine",
@@ -3841,7 +3841,7 @@
         {
             "name": "Stimulants",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Ephedrine",
@@ -3951,7 +3951,7 @@
         {
             "name": "Ephedrine",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Oil",
@@ -4042,7 +4042,7 @@
         {
             "name": "MuteToxin",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Uranium",
@@ -4094,7 +4094,7 @@
         {
             "name": "Pax",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "MindbreakerToxin",
@@ -4211,7 +4211,7 @@
         {
             "name": "NorepinephricAcid",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Uranium",
@@ -4360,7 +4360,7 @@
         {
             "name": "Ethyloxyephedrine",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Desoxyephedrine",
@@ -4496,7 +4496,7 @@
         {
             "name": "Diphenylmethylamine",
             "type": "produced",
-            "amount": 1,
+            "amount": 3,
             "reactants": [
                 {
                     "name": "Ethyloxyephedrine",
@@ -4709,7 +4709,7 @@
         {
             "name": "SodiumCarbonate",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Ammonia",
@@ -4801,7 +4801,7 @@
         {
             "name": "Hydroxide",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Oxygen",
@@ -4821,7 +4821,7 @@
         {
             "name": "SodiumHydroxide",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Hydroxide",
@@ -4854,7 +4854,7 @@
         {
             "name": "Fersilicite",
             "type": "produced",
-            "amount": 1,
+            "amount": 2,
             "reactants": [
                 {
                     "name": "Iron",
@@ -4874,7 +4874,7 @@
         {
             "name": "SodiumPolyacrylate",
             "type": "produced",
-            "amount": 1,
+            "amount": 4,
             "reactants": [
                 {
                     "name": "Oxygen",
