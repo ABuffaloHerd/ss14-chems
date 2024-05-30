@@ -11,6 +11,11 @@
         <body>
             <div class="container">
                 <h1>Chemical Reactions</h1>
+                <div id="controls">
+                    <label>Amount modifier</label>
+                    <input id="global-modifier" value="1">
+                    <button class="modifier-button" onclick=rerender()>Send it</button>
+                </div>
                 <div id="tree-container"></div>
             </div>
             <script src="script.js"></script>

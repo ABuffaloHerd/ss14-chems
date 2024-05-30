@@ -1,14 +1,6 @@
 document.addEventListener('DOMContentLoaded', () =>
 {
-    fetch('file.json')
-        .then(response => response.json())
-        .then(data =>
-            {
-                const treeContainer = document.getElementById('tree-container');
-                renderTree(data, treeContainer)
-                console.log(data)
-            }
-        )
+    rerender()
 })
 
 function renderTreeOLD(data, container) {
@@ -19,14 +11,30 @@ function renderTreeOLD(data, container) {
     });
 }
 
-function renderTree(data, container) {
+function rerender()
+{
+    const tree = document.getElementById("tree-container");
+    const amount = parseInt(document.getElementById("global-modifier").value);
+    tree.innerHTML = '';
+
+    fetch('file.json')
+        .then(response => response.json())
+        .then(data =>
+            {
+                const treeContainer = document.getElementById('tree-container');
+                renderTree(data, treeContainer, amount)
+            }
+        )
+}
+
+function renderTree(data, container, modifier) {
     data["chems"].forEach(element => {
         const outer = document.createElement('div');
         outer.className = 'outer';
 
         const thing = document.createElement('div');
         thing.className = 'tree-item';
-        thing.textContent = element["name"] + " " + element["amount"];
+        thing.textContent = "> " + element["name"] + " " + element["amount"] * modifier;
         thing.id = element["name"]
         
         // Create a container for the nested tree
@@ -59,12 +67,12 @@ function renderTree(data, container) {
 
         // Render the nested tree if there are reactants
         if (element.reactants && element.reactants.length > 0) {
-            renderNestedTree(element.reactants, nestedContainer);
+            renderNestedTree(element.reactants, nestedContainer, modifier);
         }
     });
 }
 
-function renderNestedTree(reactants, container) {
+function renderNestedTree(reactants, container, modifier) {
     reactants.forEach(reactant => {
         const reactantItem = document.createElement('div');
         reactantItem.className = 'tree-item';
@@ -74,9 +82,10 @@ function renderNestedTree(reactants, container) {
         if(reactant["type"] == "base")
         {
             reactantItem.className = reactantItem.className + " base"
+            reactantItem.textContent = reactant["name"] + " " + reactant["amount"] * modifier;
         }
-
-        reactantItem.textContent = reactant["name"] + " " + reactant["amount"];
+        else
+            reactantItem.textContent = "> " +  reactant["name"] + " " + reactant["amount"] * modifier;
 
         // Create a container for the nested reactant tree
         const nestedReactantContainer = document.createElement('div');
@@ -105,7 +114,7 @@ function renderNestedTree(reactants, container) {
 
         // Recursively render the nested reactant tree
         if (reactant.reactants && reactant.reactants.length > 0) {
-            renderNestedTree(reactant.reactants, nestedReactantContainer);
+            renderNestedTree(reactant.reactants, nestedReactantContainer, modifier);
         }
     });
 }
