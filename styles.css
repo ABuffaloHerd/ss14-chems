@@ -7,9 +7,17 @@ body h1 {
     color: aliceblue;
 }
 
+body h2 {
+    font-family: "YurukaStd";
+    color: aliceblue;
+    font-size: 70%;
+}
+
 body div {
     color:aquamarine;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 2%;
+    border-radius: 5px;
 }
 
 @font-face {
@@ -17,4 +25,22 @@ body div {
     src: url('fonts/FOT-YurukaStd-UB.ttf');
     font-weight: normal;
     font-style: normal;
+}
+
+.tree-item {
+    background-color: #5f5f5f;
+    width: 50%;
+    font-size:larger;
+    padding: 5px;
+    margin-bottom: 2px;
+}
+
+.tree-item.base {
+    background-color: purple;
+}
+
+.tree-item nested-tree tree-item {
+    background-color: cadetblue;
+    border-radius: 0px;
+    color:red;
 }
