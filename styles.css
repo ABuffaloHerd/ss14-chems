@@ -37,10 +37,11 @@ body div {
 
 .tree-item.base {
     background-color: purple;
+    width: 20%;
 }
 
-.tree-item nested-tree tree-item {
-    background-color: cadetblue;
+.tree-item .nested-tree {
+    background-color: rgb(129, 0, 0);
     border-radius: 0px;
     color:red;
 }

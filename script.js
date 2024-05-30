@@ -33,7 +33,19 @@ function renderTree(data, container) {
         
         // Add click event to toggle visibility
         thing.addEventListener('click', () => {
-            nestedContainer.style.display = nestedContainer.style.display === 'none' ? 'block' : 'none';
+   
+            const isHidden = nestedContainer.style.display === 'none';
+
+            nestedContainer.style.display = isHidden ? 'block' : 'none';
+        
+            if (isHidden) 
+            {
+                thing.style.backgroundColor = '#940000'; // Open trees will have red background
+            } 
+            else 
+            {
+                thing.style.backgroundColor = ''; // Reset background color when hidden
+            }
         });
 
         container.appendChild(thing);
@@ -68,7 +80,18 @@ function renderNestedTree(reactants, container) {
         // Add click event to toggle visibility
         reactantItem.addEventListener('click', (e) => {
             e.stopPropagation(); // Prevent event bubbling
-            nestedReactantContainer.style.display = nestedReactantContainer.style.display === 'none' ? 'block' : 'none';
+            const isHidden = nestedReactantContainer.style.display === 'none';
+            nestedReactantContainer.style.display = isHidden ? 'block' : 'none';
+            
+            if(reactant["type"] == "base") return;
+            if (isHidden) 
+            {
+                reactantItem.style.backgroundColor = '#940000'; // Open trees will have red background
+            } 
+            else 
+            {
+                reactantItem.style.backgroundColor = ''; // Reset background color when hidden
+            }
         });
 
         container.appendChild(reactantItem);
