@@ -1,4 +1,5 @@
 import yaml
+import math
 import json
 from collections import deque
 
@@ -50,9 +51,12 @@ for reaction in reaction_dict.values():
 
 # Add reactant relationships
 for reaction in reaction_dict.values():
-    for product in reaction.get('products', {}):
+    for product, product_amount in reaction.get('products', {}).items():
+        if product not in nodes:
+            nodes[product] = ChemicalNode(product)
+        nodes[product].product_amount = product_amount
         for reactant, details in reaction['reactants'].items():
-            nodes[product].reactants[reactant] = details['amount']
+            nodes[product].reactants[reactant] = details['amount'] / product_amount
 
 # Manually disable sodium and chlorine's association with electrolysis
 nodes['Sodium'].reactants = {}
@@ -86,9 +90,9 @@ def generate_tree_dict(chemical):
 def generate_tree_dict_iterative(chemical, amount=1):
     if chemical not in nodes or not nodes[chemical].reactants:
         print(f"{chemical} has no reactants")
-        return {"name": chemical, "type": "base", "amount": nodes[chemical].product_amount * amount , "notes" : nodes[chemical].notes} if chemical in nodes else None
+        return {"name": chemical, "type": "base", "amount": amount, "notes": nodes[chemical].notes if chemical in nodes else []}
 
-    tree_dict = {"name": chemical, "type": "produced", "amount": nodes[chemical].product_amount * amount, "reactants": [], "notes": nodes[chemical].notes}
+    tree_dict = {"name": chemical, "type": "produced", "amount": amount, "reactants": [], "notes": nodes[chemical].notes}
     stack = deque([(chemical, amount, tree_dict)])
 
     while stack:
@@ -98,11 +102,13 @@ def generate_tree_dict_iterative(chemical, amount=1):
         # No reactants
         if not node or not node.reactants:
             current_node['type'] = 'base'
+            continue
 
-        for reactant, reactant_amount in node.reactants.items():
-            reactant_tree = {"name": reactant, "type": "produced", "amount": reactant_amount, "reactants": []}
+        for reactant, reactant_ratio in node.reactants.items():
+            required_amount = round(reactant_ratio * current_amount, 2)  # Scale by the current amount being produced
+            reactant_tree = {"name": reactant, "type": "produced", "amount": required_amount, "reactants": [], "notes": nodes[reactant].notes}
             current_node["reactants"].append(reactant_tree)
-            stack.append((reactant, reactant_amount, reactant_tree))
+            stack.append((reactant, required_amount, reactant_tree))
 
     return tree_dict
 

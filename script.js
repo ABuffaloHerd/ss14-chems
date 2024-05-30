@@ -34,7 +34,7 @@ function renderTree(data, container, modifier) {
 
         const thing = document.createElement('div');
         thing.className = 'tree-item';
-        thing.textContent = "> " + element["name"] + " " + element["amount"] * modifier;
+        thing.textContent = "> " + element["name"] + " " + (element["amount"] * modifier).toFixed(0);
         thing.id = element["name"]
         
         // Create a container for the nested tree
@@ -82,10 +82,10 @@ function renderNestedTree(reactants, container, modifier) {
         if(reactant["type"] == "base")
         {
             reactantItem.className = reactantItem.className + " base"
-            reactantItem.textContent = reactant["name"] + " " + reactant["amount"] * modifier;
+            reactantItem.textContent = reactant["name"] + " " + (reactant["amount"] * modifier).toFixed(2);
         }
         else
-            reactantItem.textContent = "> " +  reactant["name"] + " " + reactant["amount"] * modifier;
+            reactantItem.textContent = "> " +  reactant["name"] + " " + (reactant["amount"] * modifier).toFixed(2);
 
         // Create a container for the nested reactant tree
         const nestedReactantContainer = document.createElement('div');
