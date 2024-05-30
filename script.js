@@ -76,7 +76,7 @@ function renderNestedTree(reactants, container) {
             reactantItem.className = reactantItem.className + " base"
         }
 
-        reactantItem.textContent = reactant["name"];
+        reactantItem.textContent = reactant["name"] + " " + reactant["amount"];
 
         // Create a container for the nested reactant tree
         const nestedReactantContainer = document.createElement('div');
