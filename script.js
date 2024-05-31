@@ -3,12 +3,9 @@ document.addEventListener('DOMContentLoaded', () =>
     rerender()
 })
 
-function renderTreeOLD(data, container) {
-    data["chems"].forEach(element => {
-        const thing = document.createElement('div')
-        thing.textContent = element["name"]
-        container.appendChild(thing)
-    });
+function round(number)
+{
+    return Math.round(number * 100) / 100
 }
 
 function rerender()
@@ -82,10 +79,10 @@ function renderNestedTree(reactants, container, modifier) {
         if(reactant["type"] == "base")
         {
             reactantItem.className = reactantItem.className + " base"
-            reactantItem.textContent = reactant["name"] + " " + (reactant["amount"] * modifier).toFixed(2);
+            reactantItem.textContent = reactant["name"] + " " + round(reactant["amount"] * modifier).toFixed(1);
         }
         else
-            reactantItem.textContent = "> " +  reactant["name"] + " " + (reactant["amount"] * modifier).toFixed(2);
+            reactantItem.textContent = "> " +  reactant["name"] + " " + round(reactant["amount"] * modifier).toFixed(1);
 
         // Create a container for the nested reactant tree
         const nestedReactantContainer = document.createElement('div');
